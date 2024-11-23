@@ -105,6 +105,9 @@ html{
     gap:20px;
     max-width: 250px;
 }
+.cookie-consent-inactive{
+    display: none;
+}
 .close-button-wrapper{
     display: flex;
     flex-direction: row;
