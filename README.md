@@ -28,7 +28,7 @@ This personal page is created with:
 
 ```bash
 git clone https://github.com/07krW5Hnr5ghy/cookie-consent
-cd tabs
+cd cookie-consent
 open index.html
 ```
 
